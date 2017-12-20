@@ -1,0 +1,14 @@
+*.log
+.DS_Store
+.gradle
+.classpath
+.project
+.settings
+.idea
+.vertx
+bin
+build
+target
+out
+*.iml
+*.class
