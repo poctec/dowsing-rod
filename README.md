@@ -47,17 +47,19 @@
 * [Jersey](https://jersey.github.io)
     * [Swagger Core Jersey 2.X Project Setup 1.5](https://github.com/swagger-api/swagger-core/wiki/Swagger-Core-Jersey-2.X-Project-Setup-1.5)
 
-## jooby
-
-* [jooby](http://jooby.org/)
-    * [Swagger and RAML](http://jooby.org/doc/apitool/)
-
 ## Spring Boot
+
+* [Spring Boot](https://projects.spring.io/spring-boot/)
 
 ### Blog posts
 
 * [Cloud-native Anwendungen bauen mit Spring Cloud und Netflix OSS](https://jaxenter.de/cloud-native-anwendungen-42976)
 * [Build a Microservices Architecture for Microbrews with Spring Boot](https://developer.okta.com/blog/2017/06/15/build-microservices-architecture-spring-boot)
+
+## <del>jooby</del>
+
+* [jooby](http://jooby.org/)
+    * [Swagger and RAML](http://jooby.org/doc/apitool/)
 
 # Links
 
