@@ -42,11 +42,15 @@
 
     mvn io.fabric8:vertx-maven-plugin:1.0.13:setup -DvertxVersion=3.5.0
 
-
 ## Jersey
 
 * [Jersey](https://jersey.github.io)
     * [Swagger Core Jersey 2.X Project Setup 1.5](https://github.com/swagger-api/swagger-core/wiki/Swagger-Core-Jersey-2.X-Project-Setup-1.5)
+
+## jooby
+
+* [jooby](http://jooby.org/)
+    * [Swagger and RAML](http://jooby.org/doc/apitool/)
 
 ## Spring Boot
 
