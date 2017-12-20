@@ -63,3 +63,11 @@
 
 * [The Power, Patterns and Pains of Microservices](https://github.com/joshlong/power-patterns-pains-of-microservices)
 * [Java in Flames](https://medium.com/netflix-techblog/java-in-flames-e763b3d32166)
+
+# Books
+
+* [Cloud Native - Designing change-tolerant software](https://www.manning.com/books/cloud-native) - January 2018
+* [Go Web Programming](https://www.manning.com/books/go-web-programming) - July 2016
+* [Java 8 & 9 in Action, Second Edition](https://www.manning.com/books/java-8-and-9-in-action) - December 2017
+* [Spring Microservices in Action](https://www.manning.com/books/spring-microservices-in-action) - June 2017
+* [Web Development with Clojure, Second Edition](https://pragprog.com/book/dswdcloj2/web-development-with-clojure-second-edition) - July 2016
